@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  name = "user_registartion_via_email"
+  org = "asgarde0chore0nsm"
+  version = "0.1.0"
+
